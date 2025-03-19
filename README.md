@@ -1,1 +1,1 @@
-# trading-application
+# Trading Application
